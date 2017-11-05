@@ -19,7 +19,7 @@
     "@angular/common": "5.0.0-rc.8",
     "@angular/compiler": "5.0.0-rc.8",
     "@angular/core": "5.0.0-rc.8",
-    "@angular/flex-layout": "github:angular/flex-layout-builds#6e8a7a2c33b2507781aee07b651e5359001b17c9",
+    "@angular/flex-layout": "github:angular/flex-layout-builds",
     "@angular/forms": "5.0.0-rc.8",
     "@angular/http": "5.0.0-rc.8",
     "@angular/material": "2.0.0-beta.12",
